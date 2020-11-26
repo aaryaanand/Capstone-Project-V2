@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
+
+​* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("https://img.rawpixel.com/s3fs-/rawpixel_images/website_content/rm23-adj-02_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=ea4eb63008794ebca11aa64c272916dc");
+    font-family: 'Xanh Mono', monospace;
+    text-align:center;
+    color:black;
+    padding: 20mm;
+}
+
+.nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    margin: 20px;
+    padding: 10px;
+    text-decoration-style: none;
+    color: white;
+}
+
+
+
+.nav ul li {
+    margin: 0 20px;
+}
+
+
+
+
+
+td img {
+    width: 100px;
+    left: auto;
+}
+
+​header,
+footer {
+    background-color: black;
+    height: 50px;
+    color: white;
+    padding: 15px;
+}
+
+​.top {
+    background-image: url("https://i1.faceprep.in/ProGrad/groove-bg.png");
+    background-size: 100% 100%;
+}
+
+​.container {
+    min-height: 950px;
+    padding-top: 5%;
+}
+
+​ h1 {
+    margin-top: 150px;
+    font-size: 3em;
+}
+
+​ h2 {
+    font-size: 2em;
+}
+
+​ p {
+    font-size: 20px;
+}
+
+​ .button {
+    background-color: #27AE60;
+    padding: 10px;
+    width: 130px;
+    margin: auto;
+    margin-top: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+​ h2 {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+​ #mobile {
+    width: 200px;
+    text-align: center;
+    padding: 5px;
+}
+
+​ #Quantity {
+    width: 40px;
+}
+
+table {
+    margin: auto;
+}
+
+
+th,
+tr,
+td {
+    margin: auto;
+    border: 2px solid lightgray;
+    border-spacing: 5px;
+    padding: 20px;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+​th {
+    background-color: #27AE60;
+    color: white;
+}
+
+​tr:hover {
+    background-color: #EDEAE4;
+}
+
+​ a {
+    text-decoration: none;
+    color: white;
+}
+
+​ h4 {
+    display: none;
+}
